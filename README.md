@@ -13,8 +13,8 @@ Eu sou transparente em muitas coisas (aqui não é diferente) o Doortable é uma
   
 Requisítos mínimos
   
-- 2 GB of RAM
-- 12 GB of storage
+- 2 GB de memória ram
+- 12 GB de armazenamento
 - 64bits 
 
 documentação:
