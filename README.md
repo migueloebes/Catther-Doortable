@@ -1,2 +1,61 @@
-# Doortable-original-
-Uma remaster do Debian para coisas simples e prodtividade
+### meu contato
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/migueloebes?style=for-the-badge&logo=x&color=000000)](https://x.com/migueloebes) 
+
+<div align="center">
+  <h1>Chatter Doortable</h1> <h2>Não é perfeito. Mas, quer!</h2> 
+
+ <p><strong>Baseado no debian, perfeito para a produtividade e tarefas básicas.</strong></p>
+
+  
+<div align="left">
+Eu sou transparente em muitas coisas (aqui não é diferente) o Doortable é uma remaster do Debian e, não me sinto envergonhado por isso. Criei para que você não passe tanto tempo configurando seus aplicativos favoritos, coloquei ícons, otimizações e, removi diversos blootwares do Debian padrão e vários outros que não ouve menções.
+
+  
+Requisítos mínimos
+  
+- 2 GB of RAM
+- 12 GB of storage
+- 64bits 
+
+documentação:
+- é ainda Debian, https://wiki.debian.org/pt_BR/FrontPage?action=show&redirect=P%C3%A1ginaPrincipal
+
+## 
+<div align="CENTER">
+<h1>Avisos!!!!</h1>
+  <div align="left">
+
+A "distribuição" ainda não está pronta
+
+A versão de 32 bits também não está (baseada no debian 12)!</strong></p>
+
+##
+
+Iso do Catther Doortable:
+
+```bash
+
+Não está pronto
+
+```
+
+##
+
+<div align="center">
+<h1>Alterações no Chatter Doortable</h1>
+<div align="left">
+  
+- Versões internas (beta) estão sendo feitas.
+  
+- estamos criando um sistema básico de suporte
+
+- O gerenciador de memória não foi concluído (estará disponível em futuras versões)
+
+- A previsão que chegue em agosto.
+
+##
+
+Lançamento
+- 12/08/2026
+Não lançai antes, por causa da minha idade (14), dos estudos e de vários motivos sociais que atrapalharam o desenvolvimento deste remaster (mesmo sendo uma customizações simples). Contrib:
+contrib: https://github.com/migueloebes/doortable/blob/main/contrib/contrib.txt
