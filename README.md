@@ -59,3 +59,8 @@ Lançamento
 - 12/08/2026
 Não lancei antes, por causa da minha idade (14), dos estudos e de vários motivos sociais que atrapalharam o desenvolvimento deste remaster (mesmo sendo uma customizações simples). Contrib:
 contrib: https://github.com/migueloebes/doortable/blob/main/contrib/contrib.txt
+
+##
+<h1>Versões beta/alpha da remasterização</h1>
+<h3>Pode apresentar bugs</h3>
+- https://drive.google.com/drive/u/1/folders/1hzcKlKBGO2pfjOFFNskFFFHavKuJRPay
