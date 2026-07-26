@@ -20,7 +20,7 @@ Requisítos mínimos
 documentação:
 - é ainda Debian, https://wiki.debian.org/pt_BR/FrontPage?action=show&redirect=P%C3%A1ginaPrincipal
 
-SUPORTE
+suporte:
 - https://github.com/migueloebes/Catther-Doortable/issues
 ## 
 <div align="CENTER">
