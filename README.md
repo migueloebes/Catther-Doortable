@@ -2,7 +2,7 @@
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/migueloebes?style=for-the-badge&logo=x&color=000000)](https://x.com/migueloebes) 
 
 <div align="center">
-  <h1>Chatter Doortable</h1> <h2>Não é perfeito. Mas, quer!</h2> 
+  <h1>Catther Doortable</h1> <h2>Não é perfeito. Mas, quer!</h2> 
 
  <p><strong>Leve, prático, simples e limpo.</strong></p>
 
