@@ -51,7 +51,7 @@ Não está pronto
   
 - estamos criando um sistema básico de suporte
 
-- O gerenciador de memória não foi concluído (estará disponível em futuras versões)
+- O gerenciador de memória ram não foi concluído (estará disponível em futuras versões)
 
 - A previsão que chegue em agosto.
 
