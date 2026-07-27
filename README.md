@@ -4,7 +4,7 @@
 <div align="center">
   <h1>Chatter Doortable</h1> <h2>Não é perfeito. Mas, quer!</h2> 
 
- <p><strong>Baseado no debian, perfeito para a produtividade e tarefas básicas.</strong></p>
+ <p><strong>Leve, prático, simples e limpo.</strong></p>
 
   
 <div align="left">
