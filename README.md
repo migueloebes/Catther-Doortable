@@ -44,7 +44,7 @@ Não está pronto
 ##
 
 <div align="center">
-<h1>Alterações no Chatter Doortable</h1>
+<h1>Alterações no Catther Doortable</h1>
 <div align="left">
   
 - Versões internas (beta) estão sendo feitas.
