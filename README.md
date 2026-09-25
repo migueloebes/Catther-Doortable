@@ -29,8 +29,6 @@ suporte:
 
 A "distribuição" ainda não está pronta
 
-A versão de 32 bits também não está (baseada no debian 12)!</strong></p>
-
 ##
 
 Iso do Catther Doortable:
