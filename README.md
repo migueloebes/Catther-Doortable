@@ -43,22 +43,8 @@ Não está pronto
 
 ##
 
-<div align="center">
-<h1>Alterações no Catther Doortable</h1>
-<div align="left">
-  
-- Versões internas (beta) estão sendo feitas.
-  
-- estamos criando um sistema básico de suporte
-
-- O gerenciador de memória ram não foi concluído (estará disponível em futuras versões)
-
-- A previsão que chegue em agosto.
-
-##
-
 Lançamento
-- 12/08/2026
+- 10/01/2027
 Não lancei antes, por causa da minha idade (14), dos estudos e de vários motivos sociais que atrapalharam o desenvolvimento deste remaster (mesmo sendo uma customizações simples). Contrib:
 
 ##
