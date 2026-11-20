@@ -23,7 +23,8 @@ Rquisitos recomendados
 - 64bits
 
 suporte:
-- https://github.com/migueloebes/Catther-Doortable/issues
+- https://fluxer.gg/8q0S5NZf 
+
 ## 
 <div align="CENTER">
 <h1>Avisos!!!!</h1>
