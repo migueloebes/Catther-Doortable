@@ -8,8 +8,7 @@
 
   
 <div align="left">
-Eu sou transparente em muitas coisas (aqui não é diferente) o Doortable é uma remaster do Debian e, não me sinto envergonhado por isso. Criei para que você não passe tanto tempo configurando seus aplicativos favoritos, coloquei ícons, otimizações e, removi diversos blootwares do Debian padrão e vários outros que não ouve menções.
-
+Eu sou transparente em muitas coisas (aqui não é diferente) o Doortable é uma remaster do Debian e, não me sinto envergonhado por isso. Criei mais como um hobby meu do que algo sério
   
 Requisítos mínimos
   
