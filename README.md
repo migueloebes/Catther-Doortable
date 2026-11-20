@@ -8,16 +8,19 @@
 
   
 <div align="left">
-Eu sou transparente em muitas coisas (aqui não é diferente) o Doortable é uma remaster do Debian e, não me sinto envergonhado por isso. Criei mais como um hobby meu do que algo sério
+Eu sou transparente em muitas coisas (aqui não é diferente) o Doortable é uma remaster do Debian e, não me sinto envergonhado por isso. Criei mais como um hobby meu e por minhas necessidades do que algo sério
   
 Requisítos mínimos
   
 - 2 GB de memória ram
-- 12 GB de armazenamento
-- 64bits 
+- 25 GB de armazenamento
+- 64bits
 
-documentação:
-- é ainda Debian, https://wiki.debian.org/pt_BR/FrontPage?action=show&redirect=P%C3%A1ginaPrincipal
+Rquisitos recomendados
+
+- 6 GB de memória ram
+- 120+ de armazenamento SSD
+- 64bits
 
 suporte:
 - https://github.com/migueloebes/Catther-Doortable/issues
@@ -40,11 +43,4 @@ Não está pronto
 
 ##
 
-Lançamento
-- 10/01/2027
-Não lancei antes, por causa da minha idade (14), dos estudos e de vários motivos sociais que atrapalharam o desenvolvimento deste remaster (mesmo sendo uma customizações simples). Contrib:
-
-##
-<h1>Versões beta/alpha da remasterização</h1>
-<h3>Pode apresentar bugs</h3>
-- https://drive.google.com/drive/u/1/folders/1hzcKlKBGO2pfjOFFNskFFFHavKuJRPay
+Eu só gosto de tecnologia :p 
