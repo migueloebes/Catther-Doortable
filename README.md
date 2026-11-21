@@ -16,32 +16,16 @@ Requisítos mínimos
 - 25 GB de armazenamento
 - 64bits
 
-Rquisitos recomendados
+Requisitos recomendados
 
 - 6 GB de memória ram
 - 120+ de armazenamento SSD
 - 64bits
 
-suporte:
+Suporte:
 - https://fluxer.gg/8q0S5NZf 
 
 ## 
-<div align="CENTER">
-<h1>Avisos!!!!</h1>
-  <div align="left">
 
-A "distribuição" ainda não está pronta
 
-##
-
-Iso do Catther Doortable:
-
-```bash
-
-Não está pronto
-
-```
-
-##
-
-Eu só gosto de tecnologia :p 
+![Catther](https://fluxerusercontent.com/attachments/1572175155856146432/1573492536977133569/image-removebg-preview.png?ex=6b02349e&is=6b00e31e&hm=208acdf71d8dbe615d3436840f0fd3129d5c8a1156233667656ca6a3e944813c)
