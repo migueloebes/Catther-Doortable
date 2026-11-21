@@ -26,3 +26,5 @@ Support:
 - https://fluxer.gg/8q0S5NZf 
 
 ##
+
+Note: I still need to port the scripts ;-;
