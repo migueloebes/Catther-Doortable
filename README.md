@@ -18,7 +18,7 @@ Minimum Requirements
 
 Recommended Requirements
   
-- 6 GB of RAM
+- 4 GB of RAM
 - 120+ GB of SSD storage
 - 64-bit
 
